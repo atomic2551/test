@@ -1,24 +1,24 @@
+#Kotlin qaysi kompaniya tomonidan yaratilgan?
+Kategoriya: Dasturlash
++JetBrains
+-Google
+-Microsoft
+-Oracle
+Izoh: JetBrains 2011 yilda Kotlin yaratdi
+#
 #Dunyo okeanlarining eng kattasi qaysi?
 Kategoriya: Geografiya
 +Tinch okeani
 -Hind okeani
 -Atlantika okeani
 -Shimoliy Muz okeani
-Izoh: Tinch okeani dunyo okeanlarining yarmidan ko'pini egallaydi.
+Izoh: Tinch okeani Yer yuzasining 1/3 qismini egallaydi
 #
-#Qaysi planeta "Qizil planeta" deb ataladi?
-Kategoriya: Astronomiya
--Yupiter
-+Mars
--Venera
--Saturn
-Izoh: Mars temir oksid tufayli qizil rangda ko'rinadi.
-#
-#Kotlin dasturlash tili qaysi kompaniya tomonidan yaratilgan?
+#Quyidagilardan qaysi biri Kotlinning xususiyati emas?
 Kategoriya: Dasturlash
-+JetBrains
--Google
--Microsoft
--Oracle
-Izoh: JetBrains kompaniyasi 2011 yilda Kotlinni yaratdi.
+-Null xavfsizligi
++Pointer arifmetikasi
+-Davra modeli
+-Funksional dasturlash
+Izoh: Kotlinda pointer arifmetikasi yo'q
 #
